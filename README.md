@@ -1,4 +1,3 @@
-# inventory_analysis
 # **Executive Summary**
 
 ## Insights
